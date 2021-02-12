@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/sipref/static/css/main.9df02eed.chunk.css",
-    "main.js": "/sipref/static/js/main.0484a7d0.chunk.js",
-    "main.js.map": "/sipref/static/js/main.0484a7d0.chunk.js.map",
-    "runtime-main.js": "/sipref/static/js/runtime-main.ee80768f.js",
-    "runtime-main.js.map": "/sipref/static/js/runtime-main.ee80768f.js.map",
-    "static/js/2.3b218dcc.chunk.js": "/sipref/static/js/2.3b218dcc.chunk.js",
-    "static/js/2.3b218dcc.chunk.js.map": "/sipref/static/js/2.3b218dcc.chunk.js.map",
-    "index.html": "/sipref/index.html",
-    "static/css/main.9df02eed.chunk.css.map": "/sipref/static/css/main.9df02eed.chunk.css.map",
-    "static/js/2.3b218dcc.chunk.js.LICENSE.txt": "/sipref/static/js/2.3b218dcc.chunk.js.LICENSE.txt"
+    "main.css": "/gif-expert-app/static/css/main.9df02eed.chunk.css",
+    "main.js": "/gif-expert-app/static/js/main.0484a7d0.chunk.js",
+    "main.js.map": "/gif-expert-app/static/js/main.0484a7d0.chunk.js.map",
+    "runtime-main.js": "/gif-expert-app/static/js/runtime-main.7d21585b.js",
+    "runtime-main.js.map": "/gif-expert-app/static/js/runtime-main.7d21585b.js.map",
+    "static/js/2.3b218dcc.chunk.js": "/gif-expert-app/static/js/2.3b218dcc.chunk.js",
+    "static/js/2.3b218dcc.chunk.js.map": "/gif-expert-app/static/js/2.3b218dcc.chunk.js.map",
+    "index.html": "/gif-expert-app/index.html",
+    "static/css/main.9df02eed.chunk.css.map": "/gif-expert-app/static/css/main.9df02eed.chunk.css.map",
+    "static/js/2.3b218dcc.chunk.js.LICENSE.txt": "/gif-expert-app/static/js/2.3b218dcc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ee80768f.js",
+    "static/js/runtime-main.7d21585b.js",
     "static/js/2.3b218dcc.chunk.js",
     "static/css/main.9df02eed.chunk.css",
     "static/js/main.0484a7d0.chunk.js"
